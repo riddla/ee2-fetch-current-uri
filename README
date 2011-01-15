@@ -1,0 +1,6 @@
+Fetch Current URI plugin for ExpressionEngine 2
+===============================================
+
+Just a quick manual fork of an original ExpressionEngine 1 plugin to be found at http://devot-ee.com/add-ons/fetch-current-uri/ respectively http://expressionengine.com/index.php?affiliate=masugadesign&page=/archived_forums/viewthread/73764
+
+- to be placed at system/expressionengine/thirdparty/
